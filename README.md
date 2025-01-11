@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-3.gif)](https://rishavchanda.io)
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Silent%2C+and+Level+up.%22" alt="Typing SVG" />
 
 <h1 align="center">Hi 👋, I'm Haykal Rachmady</h1>
