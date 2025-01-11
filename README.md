@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning *Web Hacking, Android Application Hacking*
+- 🌱 I’m currently learning *Web Development, Web Hacking and Android Application Hacking*
 
 - 👨‍💻 All of my projects are available at - comingsoon
 - 💬 Ask me about *AI,Cyber Security,Tech*
