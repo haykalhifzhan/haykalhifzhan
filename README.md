@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Haykal Rachmady</h1>
 <h3 align="center">Interested in Hacking</h3>
 
-<img align="right" alt="coding" width="350" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
+<img align="right" alt="coding" width="340" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 
 
 
