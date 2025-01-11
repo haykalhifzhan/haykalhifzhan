@@ -1,30 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Center Image</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #121212; /* Optional for aesthetic */
-        }
-        .center-image img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-    <div class="center-image">
-        <img src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-3.gif" alt="MasterHead">
-    </div>
-</body>
-</html>
+![MasterHead](https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-3.gif) 
 
 - 🌱 I’m currently learning *Web Hacking, Android Application Hacking*
 
