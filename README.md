@@ -1,15 +1,30 @@
-<div class="center-image">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Center Image</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #121212; /* Optional for aesthetic */
+        }
+        .center-image img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="center-image">
         <img src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-3.gif" alt="MasterHead">
     </div>
-
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Silent%2C+and+Level+up.%22" alt="Typing SVG" />
-
-<h1 align="center">Hi 👋, I'm Haykal Rachmady</h1>
-<h3 align="center">Interested in Hacking</h3>
-
-<img align="right" alt="coding" width="320" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
-
-
+</body>
+</html>
 
 - 🌱 I’m currently learning *Web Hacking, Android Application Hacking*
 
