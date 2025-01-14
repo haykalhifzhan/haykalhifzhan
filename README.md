@@ -30,6 +30,9 @@
 
 # 💻 Tech Stack:
 <p align="left">
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+  <img src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2Ff5f43386-11d9-4978-b8f0-1497a875881e&w=384&q=75" alt="Burp Suite Professional" width="40" height="40"/>
+</a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
@@ -60,9 +63,6 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-  <img src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2Ff5f43386-11d9-4978-b8f0-1497a875881e&w=384&q=75" alt="Burp Suite Professional" width="40" height="40"/>
-</a>
 </p>
 
 
