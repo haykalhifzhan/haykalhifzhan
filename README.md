@@ -8,7 +8,7 @@
 
 
 
-- 🌱 "I’m currently learning Web Development, Web Hacking, and Android Application Hacking, and CTF Player"
+- 🌱 "I’m currently learning Web Development, Web Hacking,Android Application Hacking, and CTF Player"
 
 - 👨‍💻 All of my projects are available at - comingsoon
 - 💬 Ask me about *AI,Cyber Security,Tech*
