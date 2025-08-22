@@ -20,7 +20,7 @@
 #
 
 # 👀 Github Profile Visitor
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kallokkotsun&label=Profile%20views&color=0e75b6&style=flat" alt="kallokkotsu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kallokkotsun&label=Profile%20views&color=0e75b6&style=flat" alt="haykalhifzhan" /> </p>
 
 # 🌐 Socials:
 <p align="left">
