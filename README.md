@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/elapse-d/foo-Wallpaper-Feh-Gif/master/desktop-animation2.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif)](https://rishavchanda.io)
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Silent%2C+and+Level+up.%22" alt="Typing SVG" />
 
 <h1 align="center">Hi 👋, I'm Haykal Rachmady</h1>
